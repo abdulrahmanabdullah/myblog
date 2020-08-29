@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <>
       <BookmarkProvider>
-        <Container>
+        <Container maxWidth='md'>
           <Grid container spacing={2}>
             {/* check posts not equal 0 or null */}
             {posts.length &&

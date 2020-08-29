@@ -1,7 +1,6 @@
 import { useState, useContext } from 'react';
 
 // في البداية تاكد هل تم حفظها في الذاكرة ، اذا نعم خلي القيمة صواب اذا لا خليها خطأ
-
 function checkIsSaved(id) {
   const post = localStorage.getItem(id); // this will return true or false .
   if (post !== null) {

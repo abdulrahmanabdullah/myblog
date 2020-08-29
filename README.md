@@ -12,5 +12,6 @@ This is a personal blog to publish javascript advance topics .
 - Application state management 😡 as you know it's a hardest stage in development phase. Solve it with Context API 😌
 - save post in local storage and retreive it from it .
 - how to move articles that marked as a bookmarked post to bookmark component .
+- Copy content to clipboard 🌪
 
 # Finally, I learned a lot of stuff about react and state management system, I profoundly thanks my self.
