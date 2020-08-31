@@ -15,6 +15,9 @@ const Home = () => {
     <>
       <BookmarkProvider>
         <Container maxWidth='lg'>
+          {/* To display bookmarks articles 🥰👏🏻 */}
+          <Bookmark />
+          <hr />
           <Grid container spacing={8}>
             {/* check posts not equal 0 or null */}
             {posts.length &&
@@ -24,8 +27,6 @@ const Home = () => {
                 </Grid>
               ))}
           </Grid>
-          {/* To display bookmarks articles 🥰👏🏻 */}
-          <Bookmark />
         </Container>
       </BookmarkProvider>
     </>

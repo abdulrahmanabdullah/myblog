@@ -7,7 +7,6 @@ import FavoriteSharpIcon from '@material-ui/icons/FavoriteSharp';
 import Toast from './Toast';
 import { Link } from 'react-router-dom';
 import useToast from '../hooks/useToast';
-import useBookmark from '../hooks/useBookmark';
 import { useStyles } from './cardComponentStyles';
 import { BookmarkContext } from '../context/BookmarkProvider';
 
@@ -16,6 +15,8 @@ const CardComponent = ({ post, id }) => {
   //Override styles
   const styles = useStyles();
 
+  // Use Context to observe bookmarks articles and
+  // func to add it and remove it from local storage  . ✌🏻
   const { bookmarks, addToFavorite, removeFromFavorite } = useContext(
     BookmarkContext
   );
@@ -26,18 +27,7 @@ const CardComponent = ({ post, id }) => {
   };
   // return open state, message and serveity toast component.
   const toast = useToast();
-  // bookmark state
-  // const bookmark = useBookmark(id);
-  const [isSaved, setIsSaved] = React.useState(false);
-  // const _post = localStorage.getItem(post.title);
-  // if (_post) {
-  //   console.log(_post);
-  // }
-  // set article as a saved and unsaved articles .
-  const handleBookmarks = (e) => {
-    addToFavorite(post);
-    setIsSaved(!isSaved);
-  };
+
   // Convert date to day, month, year
   const convertDate = new Date(post.createdAt).toDateString();
   return (

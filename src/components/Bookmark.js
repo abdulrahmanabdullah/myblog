@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import Grid from '@material-ui/core/Grid';
 import { BookmarkContext } from '../context/BookmarkProvider';
+
 import CardComponent from './CardComponent';
 export default function BookmarkComponent() {
   const { bookmarks, totalArticles } = useContext(BookmarkContext);
