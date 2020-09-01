@@ -20,6 +20,7 @@ export default function BookmarkComponent() {
               </Grid>
             ))}
           </Grid>
+          <hr />
         </>
       ) : null}
     </>

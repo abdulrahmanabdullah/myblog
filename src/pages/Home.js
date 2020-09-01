@@ -17,7 +17,6 @@ const Home = () => {
         <Container maxWidth='lg'>
           {/* To display bookmarks articles 🥰👏🏻 */}
           <Bookmark />
-          <hr />
           <Grid container spacing={8}>
             {/* check posts not equal 0 or null */}
             {posts.length &&
