@@ -7,7 +7,7 @@ export default function BookmarkComponent() {
   const { bookmarks, totalArticles } = useContext(BookmarkContext);
   return (
     <>
-      {bookmarks.length && (
+      {bookmarks.length > 0 ? (
         <>
           <div style={{ padding: '10px' }} />
           <h2 style={{ color: 'white' }}>
@@ -21,7 +21,7 @@ export default function BookmarkComponent() {
             ))}
           </Grid>
         </>
-      )}
+      ) : null}
     </>
   );
 }
