@@ -19,12 +19,13 @@ const Home = () => {
           <Bookmark />
           <Grid container spacing={8}>
             {/* check posts not equal 0 or null */}
-            {posts.length &&
-              posts.map((post) => (
-                <Grid item xs={12} sm={6} md={4} key={post._id}>
-                  <CardComponent id={post._id} post={post} />
-                </Grid>
-              ))}
+            {posts.length > 0
+              ? posts.map((post) => (
+                  <Grid item xs={12} sm={6} md={4} key={post._id}>
+                    <CardComponent id={post._id} post={post} />
+                  </Grid>
+                ))
+              : null}
           </Grid>
         </Container>
       </BookmarkProvider>

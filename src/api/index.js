@@ -1,10 +1,11 @@
 import axios from 'axios';
 
-const baseURL = 'https://abdulrahmanblog.herokuapp.com/';
+const baseURL = 'https://abdulrahmanblog.herokuapp.com';
 export const getArticles = async () => {
   try {
     const response = await axios.get(`${baseURL}/blogs`);
     const { data } = response;
+    console.log(data);
     return data;
   } catch (error) {
     console.log('Some error ocurred with getArticles func', error);
