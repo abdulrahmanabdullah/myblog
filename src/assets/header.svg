@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 548.5" style="enable-background:new 0 0 1280 548.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Path_5);}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{fill:none;stroke:#FFFFFF;}
+	.st3{filter:url(#Path_12);}
+	.st4{clip-path:url(#SVGID_7_);}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="523.895" id="Path_5" width="1249.108" x="-9.5" y="-9.464">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="365.82" id="Path_12" width="1218.713" x="-14.5" y="-9.464">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur-2" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur-2" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g>
+	<g id="Web_1280_1">
+		<g id="Group_27">
+			<g transform="matrix(1, 0, 0, 1, 0, 0)" class="st0">
+				<g>
+					<g id="Path_5-2_4_">
+						<g>
+							<defs>
+								<path id="SVGID_1_" d="M0,502.3c0,0,116.6-327.3,610.2-325.5S1229.7-3,1229.7-3H0V502.3z"/>
+							</defs>
+							<clipPath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							</clipPath>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="Path_5-2_3_">
+						<g>
+							<defs>
+								<path id="SVGID_3_" d="M0,502.3c0,0,116.6-327.3,610.2-325.5S1229.7-3,1229.7-3H0V502.3z"/>
+							</defs>
+							<clipPath id="SVGID_4_">
+								<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+							</clipPath>
+							<g class="st1">
+								<g>
+									<defs>
+										<rect id="SVGID_5_" x="-5" y="-8" width="1239.7" height="515.2"/>
+									</defs>
+									<clipPath id="SVGID_6_">
+										<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+									</clipPath>
+									<g style="clip-path:url(#SVGID_6_);">
+										
+											<image style="overflow:visible;" width="2584" height="1074" xlink:href="3E827FFF.jpg"  transform="matrix(0.48 0 0 0.48 -5.28 -8)">
+										</image>
+									</g>
+								</g>
+							</g>
+						</g>
+						<path class="st2" d="M0,502.3c0,0,116.6-327.3,610.2-325.5S1229.7-3,1229.7-3H0V502.3z"/>
+					</g>
+				</g>
+				<g>
+					<g id="Path_5-2_1_">
+						<g>
+							<defs>
+								<path id="SVGID_7_" d="M0,502.3c0,0,116.6-327.3,610.2-325.5S1229.7-3,1229.7-3H0V502.3z"/>
+							</defs>
+							<clipPath id="SVGID_8_">
+								<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+							</clipPath>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="matrix(1, 0, 0, 1, 0, 0)" class="st3">
+				<g>
+					<g id="Path_12-2_4_">
+						<g>
+							<defs>
+								<path id="SVGID_1_" d="M-5,342.8c0,0,203.1-275.8,603.2-238.8S1193.7-3,1193.7-3H-5V342.8z"/>
+							</defs>
+							<clipPath id="SVGID_3_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							</clipPath>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="Path_12-2_3_">
+						<g>
+							<defs>
+								<path id="SVGID_5_" d="M-5,342.8c0,0,203.1-275.8,603.2-238.8S1193.7-3,1193.7-3H-5V342.8z"/>
+							</defs>
+							<clipPath id="SVGID_7_">
+								<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+							</clipPath>
+							<g class="st4">
+								<g>
+									<defs>
+										<rect id="SVGID_9_" x="-10" y="-8" width="1208.7" height="355.8"/>
+									</defs>
+									<clipPath id="SVGID_10_">
+										<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+									</clipPath>
+									<g style="clip-path:url(#SVGID_10_);">
+										
+											<image style="overflow:visible;" width="2519" height="742" xlink:href="3E827FFD.jpg"  transform="matrix(0.48 0 0 0.48 -10.08 -8)">
+										</image>
+									</g>
+								</g>
+							</g>
+						</g>
+						<path class="st2" d="M-5,342.8c0,0,203.1-275.8,603.2-238.8S1193.7-3,1193.7-3H-5V342.8z"/>
+					</g>
+				</g>
+				<g>
+					<g id="Path_12-2_1_">
+						<g>
+							<defs>
+								<path id="SVGID_11_" d="M-5,342.8c0,0,203.1-275.8,603.2-238.8S1193.7-3,1193.7-3H-5V342.8z"/>
+							</defs>
+							<clipPath id="SVGID_12_">
+								<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+							</clipPath>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
