@@ -24,13 +24,11 @@ const App = () => {
       <StylesProvider jss={jss}>
         <ThemeProvider theme={theme}>
           <Router>
-            <Header />
             <Routes>
               <Route path='/' exact element={<Home />} />
               <Route path='/blog/:postId' exact element={<PostPage />} />
             </Routes>
           </Router>
-          {/* <Article /> */}
         </ThemeProvider>
       </StylesProvider>
     </div>

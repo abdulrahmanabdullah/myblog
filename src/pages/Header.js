@@ -38,7 +38,8 @@ const useStyles = makeStyles((theme) => ({
     margin: 'auto',
   },
 }));
+
+// function Component
 export default function Header() {
-  const styles = useStyles();
-  return <header className={styles.header}>{/* Header txt */}</header>;
+  return <header>Header Code here 😀</header>;
 }
