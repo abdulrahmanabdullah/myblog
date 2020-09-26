@@ -118,7 +118,11 @@ const useStyles = makeStyles((theme) => ({
     lineHeight: '32px',
     fontSize: '25px',
     ' & img ': {
-      width: '100%',
+      width: '50%',
+      margin: '0 auto',
+    },
+    '& a': {
+      color: '#D4B20A',
     },
     '& pre': {
       overFlow: 'auto',
@@ -137,6 +141,9 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.down('xs')]: {
       '& h1': {
         fontSize: '18px',
+      },
+      '& img': {
+        width: '100%',
       },
       '& blockquote': {
         margin: '0 auto',
